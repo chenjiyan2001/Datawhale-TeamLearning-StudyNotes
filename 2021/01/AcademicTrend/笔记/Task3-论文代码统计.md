@@ -62,9 +62,9 @@
 
     参考文章：
 
-    [简要][https://docs.python.org/zh-cn/3/library/re.html?highlight=正则表达式](https://docs.python.org/zh-cn/3/library/re.html?highlight=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
+    [简要](https://docs.python.org/zh-cn/3/library/re.html?highlight=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
-    [详细][https://docs.python.org/zh-cn/3/howto/regex.html#regex-howto](https://docs.python.org/zh-cn/3/howto/regex.html#regex-howto)
+    [详细](https://docs.python.org/zh-cn/3/howto/regex.html#regex-howto)
 
     这里主要说明re里的re.findall和Pandas里的Series.str.findall：
 
