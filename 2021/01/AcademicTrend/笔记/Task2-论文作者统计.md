@@ -2,7 +2,7 @@
 
 1. str的常用方法及实例：
 
-    详见[官方文档][https://docs.python.org/zh-cn/3/library/stdtypes.html#string-methods](https://docs.python.org/zh-cn/3/library/stdtypes.html#string-methods)
+    详见[官方文档](https://docs.python.org/zh-cn/3/library/stdtypes.html#string-methods)
 
     1. 常规
 
