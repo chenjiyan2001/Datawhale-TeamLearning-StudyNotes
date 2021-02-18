@@ -77,7 +77,7 @@
 
 3. **Pandas的dt接口：**
 
-    参考：[Pandas中文文档][https://www.pypandas.cn/docs/getting_started/basics.html#dt-访问器](https://www.pypandas.cn/docs/getting_started/basics.html#dt-%E8%AE%BF%E9%97%AE%E5%99%A8)
+    参考：[Pandas中文文档](https://www.pypandas.cn/docs/getting_started/basics.html#dt-%E8%AE%BF%E9%97%AE%E5%99%A8)
 
     `Series` 提供一个可以简单、快捷地返回 `datetime` 属性值的访问器。这个访问器返回的也是 `Series`，索引与现有的 `Series` 一样。
 
