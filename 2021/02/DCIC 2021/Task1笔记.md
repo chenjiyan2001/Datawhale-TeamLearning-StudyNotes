@@ -48,13 +48,13 @@
 
         baseline里做了时间-锁状态的数据透视表，我依据此表绘制了热图，可以发现时间上的一些特征和地理上的一些特征，或许之后会对数据的宏观理解有一定帮助。另外基于此表应该也可以做一些分析。baseline对这些数据是取了两个个区域做plot，不知道这两个区域是不是经过选取有代表性的。
 
-        ![Image/bike_inflow_DH_log2.jpg)
+        ![Image/bike_inflow_DH_log2.jpg](Image/bike_inflow_DH_log2.jpg)
 
-        ![Image/bike_outflow_DH_log2.jpg)
+        ![Image/bike_outflow_DH_log2.jpg](Image/bike_outflow_DH_log2.jpg)
 
-        ![Image/bike_inflow_D_log2.jpg)
+        ![Image/bike_inflow_D_log2.jpg](Image/bike_inflow_D_log2.jpg)
 
-        ![Image/bike_outflow_D_log2.jpg)
+        ![Image/bike_outflow_D_log2.jpg](Image/bike_outflow_D_log2.jpg)
 
     6. 关于DENSITY
 
