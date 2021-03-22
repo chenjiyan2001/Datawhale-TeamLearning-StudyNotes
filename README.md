@@ -28,7 +28,7 @@
       - [Task6 模型集成](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/SS-Surface%20building%20identification/Task6.ipynb)
   - 03月：
     - [集成学习(上)](https://github.com/datawhalechina/team-learning-data-mining/tree/master/EnsembleLearning)  
-      **Tips**:爱了，内容好丰富×2.就是内容的排版还是很重要。正在学习过程中。
+      **Tips**:爱了，内容好丰富×2。就是内容的排版还是很重要，学习的时候阅读体验并不是太好。还在学习过程中。
       - [Task1 机器学习的三大主要任务](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task1%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%89%E5%A4%A7%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8A%A1.ipynb)
       - [Task2 掌握基本的回归模型](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task2%20%E6%8E%8C%E6%8F%A1%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.ipynb)
       - [Task3 掌握偏差与方差理论.](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task3%20%E6%8E%8C%E6%8F%A1%E5%81%8F%E5%B7%AE%E4%B8%8E%E6%96%B9%E5%B7%AE%E7%90%86%E8%AE%BA.ipynb)
