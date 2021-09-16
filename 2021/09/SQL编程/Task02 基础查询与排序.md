@@ -1,6 +1,14 @@
 ## 练习题。
 - 1.1 编写一条 CREATE TABLE 语句，用来创建一个包含表 1-A 中所列各项的表 Addressbook （地址簿），并为 regist_no （注册编号）列设置主键约束。
-
+  ```
+  CREATE TABLE 	Addressbook
+  (regist_no INTEGER NOT NULL,
+   name VARCHAR(128) NOT NULL,
+   address VARCHAR(256) NOT NULL,
+   tel_no CHAR(10),
+   mail_address CHAR(20),
+   PRIMARY KEY (regist_no));
+   ```
 - 1.2 假设在创建练习1.1中的 Addressbook 表时忘记添加如下一列 postal_code （邮政编码）了，请把此列添加到 Addressbook 表中。
 
   列名 ： postal_code
