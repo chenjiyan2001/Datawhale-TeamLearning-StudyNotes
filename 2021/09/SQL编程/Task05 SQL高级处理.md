@@ -1,4 +1,4 @@
-课程链接:[DataWhale/wonderful-sql](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05: SQL高级处理.md)
+课程链接:[DataWhale/wonderful-sql](https://github.com/datawhalechina/wonderful-sql/blob/main/ch05:%20SQL高级处理.md)
 
 ### 1. 窗口函数
 
