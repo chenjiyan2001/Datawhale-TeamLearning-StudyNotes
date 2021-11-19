@@ -13,11 +13,11 @@
       - [Task5 作者信息关联](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/01/AcademicTrend/cHEn-Task5%20%E4%BD%9C%E8%80%85%E4%BF%A1%E6%81%AF%E5%85%B3%E8%81%94.ipynb)
   - 02月：
     - [数据挖掘实践DCIC](https://coggle.club/learn/DCIC2021/)  
-      **Tips**：水哥强。算是第一次接触比赛并期望尝试一些东西，结果发现只是无用的尝试，重要的还是眼界和学识。
+      **Tips**：算是第一次接触比赛并期望尝试一些东西，结果发现只是无用的尝试，重要的还是眼界和学识。
       - [Task1](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/DCIC%202021/Task1%E7%AC%94%E8%AE%B0.md)
       - [Task2](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/DCIC%202021/Task2.md)
     - [CV实践-语义分割](https://github.com/datawhalechina/team-learning-cv/tree/master/AerialImageSegmentation)  
-      **Tips**：水哥强，内容很丰富。内容对我来说有点超前有点多，学进去的东西不是太多。。而且一期进行两个组队学习在精力上还是不太现实。
+      **Tips**：内容很丰富。内容对我来说有点超前有点多，学进去的东西不是太多。。而且一期进行两个组队学习在精力上还是不太现实。
       - [baseline](https://github.com/datawhalechina/team-learning-cv/blob/master/AerialImageSegmentation/baseline.ipynb)
       - [组队学习内容pdf版](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/SS-Surface%20building%20identification/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2%20-%20%E5%9F%8E%E5%B8%82%E5%BB%BA%E7%AD%91%E8%AF%86%E5%88%AB.pdf)
       - [Task1 赛题理解](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/SS-Surface%20building%20identification/Task1%20%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A.md)
@@ -28,7 +28,7 @@
       - [Task6 模型集成](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/02/SS-Surface%20building%20identification/Task6.ipynb)
   - 03、04、05月：
     - [集成学习](https://github.com/datawhalechina/team-learning-data-mining/tree/master/EnsembleLearning)  
-      **Tips**：爱了，内容很丰富。集成学习是尝试的最长的学习并坚持到最后，不过到中后期个人有所松懈，但前期确实是学习了挺多知识。
+      **Tips**：内容很丰富。集成学习是尝试的最长的学习并坚持到最后，不过到中后期个人有所松懈，但前期确实是学习了挺多知识。
       - [Task1 机器学习的三大主要任务](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task1%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%89%E5%A4%A7%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8A%A1.ipynb)
       - [Task2 掌握基本的回归模型](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task2%20%E6%8E%8C%E6%8F%A1%E5%9F%BA%E6%9C%AC%E7%9A%84%E5%9B%9E%E5%BD%92%E6%A8%A1%E5%9E%8B.ipynb)
       - [Task3 掌握偏差与方差理论.](https://github.com/chenjiyan2001/Datawhale-TeamLearning-StudyNotes/blob/main/2021/03/EnsembleLearning/Task3%20%E6%8E%8C%E6%8F%A1%E5%81%8F%E5%B7%AE%E4%B8%8E%E6%96%B9%E5%B7%AE%E7%90%86%E8%AE%BA.ipynb)
